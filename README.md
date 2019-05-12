@@ -57,15 +57,17 @@ ffmpeg -start_number 0000 -i frame00%4d.jpg -c:v libx264 outfile.mp4
 ```
 ## 3) <a id='results'></a> Results:
 
-* Customer segmentation:
+* ### Customer segmentation:
 
 
-* Popular clothes (hot spots):
+* ### Popular clothes (hot spots):
 
 ![heatmap](/heatmap/output/cropped/heatmaps.gif)
 
 ![path](/path_plotting/output/cropped.png)
 
-* Shopper behavior:
+* ### Shopper behavior:
+
+![focus](graph/output_guy.gif)
 
 ![graph](graph/timegraph.png)
