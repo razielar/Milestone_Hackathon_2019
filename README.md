@@ -1,4 +1,4 @@
-# Milestone Hackathon 2019: *How to unlock store layout potential with In-Store Optimization?*
+# Milestone Hackathon 2019: *Unlocking store layout potential with In-Store Optimization*
 
 ## Team members:
 
@@ -12,6 +12,7 @@
 
 1. [Project description](#description)
 2. [Deep Neural Network for behaviour identification](#deep)
+3. [Results](#results)
 
 ## 1) <a id='description'></a> Project description:
 
@@ -54,3 +55,10 @@ To stitch the frames with `ffmpeg` use the following command:
 ```{r}
 ffmpeg -start_number 0000 -i frame00%4d.jpg -c:v libx264 outfile.mp4
 ```
+## 3) <a id='results'></a> Results:
+
+* Customer segmentation:
+
+* Popular clothes (hot spots):
+
+* Shopper behavior: 
