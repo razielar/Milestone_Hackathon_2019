@@ -59,7 +59,7 @@ ffmpeg -start_number 0000 -i frame00%4d.jpg -c:v libx264 outfile.mp4
 
 * ### Customer segmentation:
 
-
+![segmentation]()
 
 * ### Popular clothes (hot spots):
 
