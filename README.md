@@ -59,6 +59,13 @@ ffmpeg -start_number 0000 -i frame00%4d.jpg -c:v libx264 outfile.mp4
 
 * Customer segmentation:
 
+
 * Popular clothes (hot spots):
 
-* Shopper behavior: 
+![heatmap](/heatmap/output/cropped/heatmaps.gif)
+
+![path](/path_plotting/output/cropped.png)
+
+* Shopper behavior:
+
+![graph](graph/timegraph.png)
